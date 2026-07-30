@@ -1,0 +1,6 @@
+{
+  "name": "Image Compressor Pro",
+  "description": "Batch compress student document images while preserving directory structure, with customizable rules, EXIF rotation, WorkManager background processing, and Material 3 design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
